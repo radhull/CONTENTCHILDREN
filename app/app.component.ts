@@ -14,7 +14,6 @@ import { Component, Input, ViewChildren, AfterViewInit, ContentChildren, AfterCo
             </div>
             `,
 })
-
 export class AppComponent { name = 'Angular'; }
 
 
